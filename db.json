@@ -1,0 +1,31 @@
+{
+  "person": [
+    {
+      "name": "Rahimov Saidmuhammad",
+      "name1": "Informatica",
+      "name2": "Pulaki",
+      "name3": "16-11-1998",
+      "name4": "Tojik",
+      "name5": "Korgar",
+      "name6": "Hamadoni",
+      "name7": "Dushanbe",
+      "name8": "+(992)900 855 800",
+      "name9": "rahimovsaidmuhammad01@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Saidov Shamsiddin",
+      "name1": "Programmer",
+      "name2": "Bujavi",
+      "name3": "21-11-1998",
+      "name4": "Tojik",
+      "name5": "Korgar",
+      "name6": "Guliston",
+      "name7": "Dushanbe",
+      "name8": "+(992) 988 569 806",
+      "name9": "saidovsh@gmail.ru",
+      "id": 2
+    }
+    
+  ]
+}
